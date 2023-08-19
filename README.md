@@ -55,4 +55,4 @@ Contributors to this project include:
 
 ## Licence
 
-This project is licensed under the MIT license. For license [here](https://medium.com/@havvanurselamet/github-profi%CC%87li%CC%87-i%CC%87%C3%A7i%CC%87n-read-me-file-olu You can click %C5%9Fturma-and-d%C3%BCzenleme-53470377bbc0).
+This project is licensed under the [MIT License](LICENSE).
